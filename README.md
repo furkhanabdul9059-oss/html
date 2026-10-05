@@ -1,2 +1,2 @@
-# html and css and javascript
+# html 
 task-1
